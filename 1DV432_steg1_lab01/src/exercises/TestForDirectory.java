@@ -1,4 +1,4 @@
-package exercise_step3_10_26;
+package exercises;
 
 import java.io.File;
 

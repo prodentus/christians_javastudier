@@ -1,4 +1,4 @@
-package exercise_step3_608;
+package exercises;
 
 /** Creates an array of integers, sets each element value to its index
  * and uses the static addOneToEachElement method to increase the value of each array element by one.

@@ -1,4 +1,4 @@
-package exercise_step3_10_08;
+package exercises;
 
 import java.util.Scanner;
 import java.io.FileInputStream;

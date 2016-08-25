@@ -1,4 +1,4 @@
-package exercise_step3_display10_1;
+package exercises;
 
 /**
  * Code from Display 10.1 in the book.

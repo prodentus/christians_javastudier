@@ -1,4 +1,4 @@
-package exercise_step3_608;
+package exercises;
 
 public class HandleArrayElements1 {
 	

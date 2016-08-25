@@ -1,4 +1,4 @@
-package exercises_step2;
+package exercises;
 
 public class P03_MethodWithOneParameter {
 

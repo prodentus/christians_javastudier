@@ -1,4 +1,4 @@
-package exercise_step3_608;
+package exercises;
 
 /** Using constructor and non-static methods to create an array of integers, 
  * set each element to its index and increase the value of each array element by one.

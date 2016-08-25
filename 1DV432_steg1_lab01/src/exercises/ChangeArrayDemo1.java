@@ -1,4 +1,4 @@
-package exercise_step3_611;
+package exercises;
 
 public class ChangeArrayDemo1 {
 
